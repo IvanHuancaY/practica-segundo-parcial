@@ -1,10 +1,10 @@
 import './App.css';
-import Boton  from './components/Boton'
+import Tiempo from './components/Tiempo.js';
 
 function App() {
   return (
     <div className="App">
-      <Boton />
+      <Tiempo />
     </div>
   );
 }
